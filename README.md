@@ -35,11 +35,11 @@ export { DragSortableView, AutoDragSortableView, AnySizeDragSortableView }
 
 [AutomaticSlidingOnePage](https://github.com/mochixuan/react-native-drag-sort/blob/master/Example/app/container/AutomaticSlidingOnePage.js) | [AutomaticSlidingThreePage](https://github.com/mochixuan/react-native-drag-sort/blob/master/Example/app/container/AutomaticSlidingThreePage.js)
 | ------ | ----------- | 
-| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/2/15/170487f5ce137e15~tplv-t2oaga2asx-image.image) | ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/2/15/1704896e0729f8b7~tplv-t2oaga2asx-image.image) 
+| ![](https://user-gold-cdn.xitu.io/2020/2/15/170487f5ce137e15?w=240&h=514&f=gif&s=2527386) | ![](https://user-gold-cdn.xitu.io/2020/2/15/1704896e0729f8b7?w=240&h=514&f=gif&s=4958289) 
 
 [ScrollFixedAddPage](https://github.com/mochixuan/react-native-drag-sort/blob/master/Example/app/container/ScrollFixedAddPage.js) | [DragDeletePage](https://github.com/mochixuan/react-native-drag-sort/blob/master/Example/app/container/DragDeletePage.js)  
 | ------ | ----------- |
-| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/2/10/1702ea81299f097d~tplv-t2oaga2asx-image.image)  | ![dragdelete.gif](https://upload-images.jianshu.io/upload_images/2646598-4d22ddb8f92a6563.gif?imageMogr2/auto-orient/strip)  
+| ![](https://user-gold-cdn.xitu.io/2020/2/10/1702ea81299f097d?w=240&h=400&f=gif&s=863218)  | ![dragdelete.gif](https://upload-images.jianshu.io/upload_images/2646598-4d22ddb8f92a6563.gif?imageMogr2/auto-orient/strip)  
 
 
 [SortAndFixedPage](https://github.com/mochixuan/react-native-drag-sort/blob/master/Example/app/container/SortAndFixedPage.js)  | [OneRowsPage](https://github.com/mochixuan/react-native-drag-sort/blob/master/Example/app/container/OneRowsPage.js)  
